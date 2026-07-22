@@ -1,0 +1,56 @@
+[
+  {
+    "identifier": "20260719010437",
+    "timestamp": "2026-07-19 00:59:48",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "centroid_lat": 12.619629,
+    "centroid_lon": 174.499512,
+    "mean_brightness": 102.6,
+    "cloud_coverage_pct": 5.48
+  },
+  {
+    "identifier": "20260719021004",
+    "timestamp": "2026-07-19 02:05:15",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "centroid_lat": 12.590332,
+    "centroid_lon": 158.15918,
+    "mean_brightness": 99.69,
+    "cloud_coverage_pct": 4.59
+  },
+  {
+    "identifier": "20260719031532",
+    "timestamp": "2026-07-19 03:10:43",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "centroid_lat": 12.561035,
+    "centroid_lon": 141.730957,
+    "mean_brightness": 99.18,
+    "cloud_coverage_pct": 4.34
+  },
+  {
+    "identifier": "20260719042059",
+    "timestamp": "2026-07-19 04:16:10",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "centroid_lat": 12.561035,
+    "centroid_lon": 125.412598,
+    "mean_brightness": 94.3,
+    "cloud_coverage_pct": 3.34
+  },
+  {
+    "identifier": "20260719052627",
+    "timestamp": "2026-07-19 05:21:38",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "centroid_lat": 12.546387,
+    "centroid_lon": 109.050293,
+    "mean_brightness": 93.75,
+    "cloud_coverage_pct": 3.6
+  },
+  {
+    "identifier": "20260719063154",
+    "timestamp": "2026-07-19 06:27:05",
+    "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+    "centroid_lat": 12.568359,
+    "centroid_lon": 92.702637,
+    "mean_brightness": 99.35,
+    "cloud_coverage_pct": 4.93
+  }
+]
